@@ -7,13 +7,13 @@ body {
     text-align: center;
   }
 
-  .main {
+  p.main {
     font-size: 2em;
     color:brown;
     font-style: italic;
   }
 
-  .sub {
+  p.sub {
     font-size: 3em;
     font-style: italic;
   }
